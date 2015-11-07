@@ -1,2 +1,2 @@
 # peculiar-yak
-Ikosenn.me face
+The landing page for ikosenn.me
