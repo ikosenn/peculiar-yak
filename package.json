@@ -1,18 +1,18 @@
 {
-  "author": "@yoda-yoda",
-  "name": "yoda-face",
+  "author": "ikosenn",
+  "name": "peculiar-yak",
   "version": "0.1.0",
   "description": "A face for my personal site",
-  "homepage": "https://github.com/yoda-yoda/yoda-face",
-  "bugs": "https://github.com/yoda-yoda/yoda-face/issues",
+  "homepage": "https://ikosenn.me",
+  "bugs": "https://github.com/ikosenn/peculiar-yak/issues",
   "repository": {
     "type": "git",
-    "url": "git@yoda:yoda-yoda/yoda-face.git"
+    "url": "git@github.com:ikosenn/peculiar-yak.git"
   },
   "keywords": [
-    "yoda",
-    "master",
-    "yoda-face"
+    "peculiar-yak",
+    "yak",
+    "peculiar"
   ],
   "license": "MIT",
   "devDependencies": {

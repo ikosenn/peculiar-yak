@@ -47,7 +47,7 @@ module.exports = function ( grunt ) {
             banner:
                 "/*!Version <%= pkg.version %> \n" +
                 " * Generated <%= grunt.template.today('yyyy-mm-dd') %>\n" +
-                " * Copyright Deebeat City\n" +
+                " * Copyright Ian Kosen\n" +
                 " */"
         },
 
@@ -258,7 +258,6 @@ module.exports = function ( grunt ) {
             build: {
                 options: {
                     style: "expanded",
-                    banner: "<%= meta.banner %>",
                     compass: true
                 },
                 files: {
