@@ -70,4 +70,5 @@ node_modules/
 build/
 coverage/
 
+.sass-cache/
 *.scssc
