@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK,CACD,UAAU,CAAE,IAAI,CAChB,KAAK,CAAE,IAAI,CACX,WAAW,CAAE,2CAA2C,CACxD,WAAW,CAAE,KAAK",
+"sources": ["../../src/sass/sass/main.scss"],
+"names": [],
+"file": "peculiar-yak-0.1.0.css"
+}

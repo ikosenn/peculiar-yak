@@ -1,5 +1,5 @@
 "use strict";
 
-angular
-
-.module("peculiarYakCommon", []);
+angular.module("peculiarYak.common", [
+    "peculiarYak.common.states"
+]);

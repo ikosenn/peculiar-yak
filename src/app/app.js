@@ -3,6 +3,9 @@
 angular.module("peculiarYakApp", [
     "ui.router",
     "ui.bootstrap",
+    "templates-app",
+    "templates-common",
 
-    "peculiarYak.config"
+    "peculiarYak.config",
+    "peculiarYak.common"
 ]);
