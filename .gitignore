@@ -55,3 +55,18 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#bower
+vendor/
+
+# node
+node_modules/
+
+
+#mac
+.DS_Store?
+.DS_Store
+
+build/
+bin/
+coverage/

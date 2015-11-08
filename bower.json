@@ -1,0 +1,33 @@
+{
+  "name": "peculiar-yak",
+  "version": "0.1.0",
+  "description": "A face for my personal site",
+  "authors": [
+    "ikosenn"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "peculiar-yak",
+    "yak",
+    "peculiar"
+  ],
+  "homepage": "https://github.com/ikosenn/peculiar-yak",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.4.7"
+  },
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-bootstrap": "~0.13.4",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.4.0"
+  }
+}
