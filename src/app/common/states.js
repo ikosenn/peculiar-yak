@@ -8,7 +8,8 @@ angular.module("peculiarYak.common.states", ["ui.router"])
             url: "/",
             views: {
                 "main@": {
-                    templateUrl: "common/tpls/content.tpl.html"
+                    templateUrl: "common/tpls/content.tpl.html",
+                    controller: "peculiarYak.common.controller.home"
                 }
             }
         });
